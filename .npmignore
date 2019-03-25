@@ -1,0 +1,4 @@
+# 忽略目录
+.travis.yml
+test/
+.idea/

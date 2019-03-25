@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-qzconfig",
+  "version": "1.0.0",
+  "description": "a eslint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QinZhen001/eslint-config-qzconfig.git"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "qz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QinZhen001/eslint-config-qzconfig/issues"
+  },
+  "homepage": "https://github.com/QinZhen001/eslint-config-qzconfig#readme"
+}
